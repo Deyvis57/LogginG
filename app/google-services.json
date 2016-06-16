@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "130398818800",
+    "project_id": "loging-970b2"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130398818800:android:c85c19770d28bf3f",
+        "android_client_info": {
+          "package_name": "com.negrete.deyvis.logging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130398818800-t072eplv93i8ttfjmpvslcsjatndc747.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.negrete.deyvis.logging",
+            "certificate_hash": "18CE635478A3610C78FD7754ECAEE653BD30F899"
+          }
+        },
+        {
+          "client_id": "130398818800-13kv8debkt4nad8jefh5q8qq53lbg2ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmTrW2zoK_vUdy6hit2CMi1_2GoDmNCJ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
